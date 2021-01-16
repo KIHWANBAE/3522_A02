@@ -5,6 +5,7 @@ def CalculateHypotenuse(a, b):
 
 if __name__ == "__main__":
     print(CalculateHypotenuse(10, 25))
+'''''''
 
 def CalculateAdd(a,b):
     return a+b
